@@ -1,4 +1,4 @@
-# Merhaba, Ben Emre Karan 👋🏾 👨‍💻
+# Merhaba, Ben Emre Karan! 👋🏾 👨‍💻
 
 Veri analitiği ve iş zekası alanında yeni kariyerine adım atan bir Junior Data Analyst olarak, verilerden anlamlı içgörüler elde etmek ve stratejik kararlar almak için çeşitli analiz araçlarını etkin bir şekilde kullanma becerisine sahibim. SQL ile karmaşık veri sorguları yazma, Python ile veri temizleme ve analiz etme, Power BI ile görselleştirme ve raporlama süreçlerinde deneyim kazandım.
 
