@@ -3,7 +3,7 @@
 Ben bir **Veri Analisti** olarak ham verileri anlamlı içgörülere dönüştürmek ve iş büyümesini desteklemek için çalışıyorum. **SQL**, **Python** ve **Power BI** konusundaki uzmanlığımla, karmaşık verileri anlaşılır hale getirerek net görselleştirmeler ve derinlemesine analizler yapıyorum.
 
 ## 🔍 Hakkımda
-Bir Junior Data Analyst olarak uzmanlaştığım alanlar:
+Bir Data Analyst olarak uzmanlaştığım alanlar:
 - Farklı kaynaklardan veri çıkarma ve temizleme
 - Trend ve desenleri ortaya çıkarmak için derinlemesine analiz yapma
 - Power BI'da etkileşimli raporlar ve gösterge tabloları oluşturma
